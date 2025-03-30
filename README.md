@@ -29,3 +29,15 @@ The primary dataset used for this analysis is the    "bike_sales_data.xlsx" file
 - Regional Purchase Trends: Mapped bike purchase distribution across different regions.
 These pivot tables helped formulate suggestions for business strategy and offered important insights into consumer behaviour.
 
+### Key Analysis & Findings
+##### Bike purchase distribution
+- Majority of bike buyers belong to the middle age group 31-54 years.
+##### Income & Bike Purchase
+- Customers with an income range of R56000 - R60000 are the most likely to purchase a bike.
+- Higher-income individuals show higher purchase rates compared to lower-income groups.
+##### Commute Distance vs. Bike Ownership
+- Individuals with shorter commute distances (0-2 miles) are more likely to own a bike.
+##### Occupation & Bike Purchases
+- Professionals show the highest likelihood of purchasing a bike.
+##### Regional Trends
+- North America has the highest bike purchase rate at 46%.
