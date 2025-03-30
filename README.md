@@ -40,4 +40,15 @@ These pivot tables helped formulate suggestions for business strategy and offere
 ##### Occupation & Bike Purchases
 - Professionals show the highest likelihood of purchasing a bike.
 ##### Regional Trends
-- North America has the highest bike purchase rate at 46%.
+- North America has the highest bike purchase rate.
+- The Pacific has the lowest purchase rate.
+
+### Recommendations
+##### Based on the analysis done, we recommend the following actions:
+- In terms of target audience and marketing, they need to focus on the middle age group as they are most likely to purchase a bike.
+- They need to promote bikes in North America and offer incentives in the Pacific and Europe as they are low-purchase regions.
+- They need to adjust pricing and financing options for individuals with income bracket between R50 000 - R56 000 to encourage purchases.
+- They need to market bikes as an alternative for short-distance commmutes to increase adoption
+
+### Conclusion
+The key factors influencing bike purchases are highlighted in this analysis, along with practical suggestions for focused marketing and sales tactics. This company can improve their product offerings and gain a deeper understanding of their customers by utilizing data-driven decision-making.
